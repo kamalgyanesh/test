@@ -1,0 +1,92 @@
+=========== start =====  Mon Mar 12 11:01:25 2018
+=========== start =====  Tue Mar 13 10:32:22 2018
+16.59.63.203 connect 
+16.59.63.203 echo myd-vm07851
+16.59.63.203 connect  
+=========== STOP =====  Tue Mar 13 10:32:24 2018
+=========== start =====  Tue Mar 13 10:33:43 2018
+16.59.63.203 connect 
+16.59.63.203
+Checking if NetApp standard mount is there...Its linux
+Folder Exist
+mounting /NAS_NTPP
+-------------- Done -------------
+16.59.63.203 connect  
+=========== STOP =====  Tue Mar 13 10:33:44 2018
+=========== start =====  Thu Mar 15 13:18:53 2018
+=========== STOP =====  Thu Mar 15 13:18:56 2018
+=========== start =====  Thu Mar 15 13:20:09 2018
+=========== STOP =====  Thu Mar 15 13:20:12 2018
+=========== start =====  Mon Mar 19 07:35:44 2018
+16.59.63.203 connect 
+16.59.63.203
+Checking if NetApp standard mount is there...Its there-exiting script!
+16.59.63.203 connect  
+16.34.224.230 connect 
+16.34.224.230
+Checking if NetApp standard mount is there...Its linux
+Create Folder
+mounting /NAS_NTPP
+-------------- Done -------------
+16.34.224.230 connect  
+16.59.63.133 connect 
+16.59.63.133
+Checking if NetApp standard mount is there...Its there-exiting script!
+16.59.63.133 connect  
+16.34.224.224 connect 
+16.34.224.224
+Checking if NetApp standard mount is there...Its linux
+Create Folder
+mounting /NAS_NTPP
+-------------- Done -------------
+16.34.224.224 connect  
+16.60.161.132 connect 
+16.60.161.132
+Checking if NetApp standard mount is there...Its there-exiting script!
+16.60.161.132 connect  
+=========== STOP =====  Mon Mar 19 07:35:56 2018
+=========== start =====  Tue Mar 20 13:42:05 2018
+16.59.61.0 connect 
+16.59.61.0
+Checking if NetApp standard mount is there...Its linux
+Create Folder
+mounting /NAS_NTPP
+-------------- Done -------------
+16.59.61.0 connect  
+16.59.62.43 connect 
+16.59.62.43
+Checking if NetApp standard mount is there...Its linux
+Create Folder
+mounting /NAS_NTPP
+-------------- Done -------------
+16.59.62.43 connect  
+16.34.224.231 connect 
+16.34.224.231
+Checking if NetApp standard mount is there...Its linux
+Create Folder
+mounting /NAS_NTPP
+-------------- Done -------------
+16.34.224.231 connect  
+16.60.158.238 connect 
+16.60.158.238
+Checking if NetApp standard mount is there...Its linux
+Create Folder
+mounting /NAS_NTPP
+-------------- Done -------------
+16.60.158.238 connect  
+16.34.225.88 connect 
+16.34.225.88
+Checking if NetApp standard mount is there...Its linux
+Create Folder
+mounting /NAS_NTPP
+-------------- Done -------------
+16.34.225.88 connect  
+16.60.163.25 connect 
+16.60.163.25
+Checking if NetApp standard mount is there...Its linux
+Create Folder
+mounting /NAS_NTPP
+-------------- Done -------------
+16.60.163.25 connect  
+=========== STOP =====  Tue Mar 20 13:42:19 2018
+=========== start =====  Tue Mar 20 13:50:22 2018
